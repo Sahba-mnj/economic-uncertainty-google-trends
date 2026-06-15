@@ -16,3 +16,11 @@ This project examines the relationship between economic policy uncertainty, info
 - Dataset Construction ✔
 - Preliminary Analysis ✔
 - Regression Analysis (ongoing)
+
+## Repository Structure
+
+├── code/          Python scripts
+├── data/          Raw and processed datasets
+├── figures/       Generated figures
+├── reports/       Preliminary analysis report
+└── README.md
