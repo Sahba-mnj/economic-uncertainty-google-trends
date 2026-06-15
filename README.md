@@ -19,8 +19,10 @@ This project examines the relationship between economic policy uncertainty, info
 
 ## Repository Structure
 
-├── code/          Python scripts
-├── data/          Raw and processed datasets
-├── figures/       Generated figures
-├── reports/       Preliminary analysis report
-└── README.md
+| Folder | Description |
+|----------|----------|
+| code | Python scripts for data processing and visualization |
+| data | Raw and processed datasets |
+| figures | Generated figures and plots |
+| reports | Preliminary analysis report |
+| README.md | Project overview and documentation |
